@@ -1,4 +1,5 @@
 #!/bin/bash
+# change variable values in for loop 
 for i in {11..30}
 do
 echo Pass your fixed string and variable value e.g  gs://bucketpath/folder$variable    
